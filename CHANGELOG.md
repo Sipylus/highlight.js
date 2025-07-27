@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [1.0.0] – 2025-07-22
+## [1.0.0]
 ### Added
 - Initial release of `highlight.js`.
 - Prevents dragging anything on the page  
